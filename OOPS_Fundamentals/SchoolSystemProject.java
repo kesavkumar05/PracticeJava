@@ -1,3 +1,17 @@
+/*Part 1: Exploring the School System Project
+Create a new Java project using IntelliJ Idea.
+Create a Student class. This class must have the following attributes:
+Now, make the Student class implement the following methods
+Add constructors to your Student class:
+	Make the class with at least three different constructors.
+	Create a Java class for Courses
+Your Course class must have, as attributes: courseName, professorName, year.
+Your class must also contain a collection that lists all students enrolled in them.
+Implement the following methods.
+Run the main method and verify that your implementation works.
+Method Overload:
+	Overload the enroll method to take in an array of students.
+Add on to the main method and call enroll with a list of students. Verify that your implementation works.*/
 
 package PracticeJava.OOPS_Fundamentals;
 import java.util.ArrayList;
